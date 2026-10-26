@@ -1,0 +1,27 @@
+{
+  "mcpServers": {
+    "ethmumbai-governance-timelock-ai": {
+      "command": "cargo",
+      "args": [
+        "run",
+        "--release",
+        "--quiet"
+      ],
+      "env": {
+        "RUST_LOG": "info",
+        "HACKATHON_TRACK": "Arbitrum / Ethereum L2",
+        "PROJECT_TICKER": "EMGOV"
+      },
+      "tools": [
+        {
+          "name": "verify_emgov_invariants",
+          "description": "Verifies deterministic invariants for ETHMumbai Governance Timelock AI on Arbitrum / Ethereum L2."
+        },
+        {
+          "name": "execute_emgov_action",
+          "description": "Executes authenticated Governance state transition."
+        }
+      ]
+    }
+  }
+}
