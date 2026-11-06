@@ -1,0 +1,8 @@
+{
+    "network":  "Ethereum Sepolia Testnet",
+    "chainId":  11155111,
+    "deployer":  "0xbbaaD9B836f9bd61cD0d616a016Cc911A2E1f60D",
+    "emgovProtocol":  "0xF73a30FB3e6ed9a7F62E1deF3324949E6D7E0438",
+    "deploymentTxHash":  "0x30c6edae2925991c50c22e16895430ec4717433bb5fde4d511378d1a87ae3d1e",
+    "explorerUrl":  "https://sepolia.etherscan.io/address/0xF73a30FB3e6ed9a7F62E1deF3324949E6D7E0438"
+}
