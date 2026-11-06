@@ -2,7 +2,7 @@
     "network":  "Ethereum Sepolia Testnet",
     "chainId":  11155111,
     "deployer":  "0xbbaaD9B836f9bd61cD0d616a016Cc911A2E1f60D",
-    "emgovProtocol":  "0xF73a30FB3e6ed9a7F62E1deF3324949E6D7E0438",
-    "deploymentTxHash":  "0x30c6edae2925991c50c22e16895430ec4717433bb5fde4d511378d1a87ae3d1e",
-    "explorerUrl":  "https://sepolia.etherscan.io/address/0xF73a30FB3e6ed9a7F62E1deF3324949E6D7E0438"
+    "emgovProtocol":  "0xb71faB5F6be480a00D4E2cd450bd8334AA538C2c",
+    "deploymentTxHash":  "0xd89bf488f523781b95ec60e7d6f806641647645e44b02e80bb582fbe247b9ff2",
+    "explorerUrl":  "https://sepolia.etherscan.io/address/0xb71faB5F6be480a00D4E2cd450bd8334AA538C2c"
 }
